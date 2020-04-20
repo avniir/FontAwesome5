@@ -24,7 +24,7 @@ Woff font format is supported by every modern browser: https://caniuse.com/#sear
 
 ## How to install & use this local repository in your project?
 
-1) Copy the entire 'fa' folder into your project directory
+1) Copy the entire 'fa' folder into your project directory 
 
 
 2) Link it inside your ```<head>``` by adding this: ```<link rel="stylesheet" href="fa/all.min.css">```
